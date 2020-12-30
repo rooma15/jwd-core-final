@@ -4,7 +4,7 @@
 * You should not remove MY comments
 * You have to follow [Java code conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) ! 
 * Code must compile 
-* You have to do the latest commit before **23:59 9th January (Minsk time)**
+* You have to do the latest commit before **23:59 10th January (Minsk time)**
 * Use slf4j for logging your actions (You should store INFO or higher messages in output log files, which have 5 generations)
 * You are NOT able to use any codegenerators (i.e. Lombok)
 * Console input should be done using java.util.Scanner
